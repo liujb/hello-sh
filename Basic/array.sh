@@ -12,4 +12,3 @@ echo ${array_name[@]}
 echo ${#array_name[@]}
 echo ${#array_name[*]}
 echo ${#array_name[1]}
-
